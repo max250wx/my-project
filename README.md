@@ -1,2 +1,1 @@
 # my-project
-bot.py
